@@ -1,6 +1,6 @@
 {
   "name": "about_me",
-  "home":"https://<usernameofgithub>.github.io/<repo_name>",
+  "home":"https://arjunkk.github.io/portfolio_react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
